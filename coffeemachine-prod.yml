@@ -21,7 +21,7 @@ account:
   message: "Welcome to Coffee Prod"
   details:
     name: "Bob"
-    email: "kjkj@kjlk.fr"
+    email: "{cipher}c986f7c035d6b5469f2d21483b76e712c163f6801f3dc659b6d4dc037f229775"
   phone:
   - 029878798
   - 009090090
